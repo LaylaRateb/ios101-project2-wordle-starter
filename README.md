@@ -1,6 +1,6 @@
 # ios101-project2-wordle-starter
 
-# Project 1 - *Name of App Here*
+# Project 1 - Wordle Works
 
 Submitted by: **Layla Rateb**
 
